@@ -1,0 +1,86 @@
+/* USAR ROBOTO + RAILWAY */
+/* rosa #F9C8C7
+celeste #D5EBEF
+azul #3E54A3
+blanco #FAFAFA */
+body{
+    background-color: #FAFAFA;
+    margin: 0;
+    padding: 0;
+    color: #0A043C;
+}
+/* HEADER */
+header {
+    padding-top: 1rem;
+}
+
+.header-img-container{
+    text-align: center;
+}
+
+.header-img-container img {
+    height: 202px;
+    width: 220px;
+    border-radius: 50%;
+}
+
+.header-title-container {
+    text-align: center;
+}
+
+/* MAIN */
+.section-container {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+h2{
+    background-color: #F9C8C7;
+}
+
+i{
+    padding-left: 1rem;
+    padding-right: 2rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    color: #3E54A3;
+}
+
+ul li span{
+    font-weight: bold;
+}
+
+dl{
+    padding-left: 1rem;
+}
+
+dt{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+dt span{
+    font-weight: bold;
+}
+
+dd {
+    padding-left: 47px;
+}
+
+
+
+
+
+/* FOOTER */
+footer p{
+    text-align: center;
+    background-color:#D5EBEF;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+footer i {
+    padding-left: 2rem;
+}
